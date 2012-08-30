@@ -1,18 +1,21 @@
 @import "base";
 
-	/* 
-	***** Mobile First Styles ***** 
-		These are the primary styles starting small and working our way up.
-	*/
+/* ==========================================================================
+   Mobile First Styles - We start small and build up
+   ========================================================================== */
 
 
-/*
-***** Medium Sized Styles for Tablets *****
-*/
+
+/* ==========================================================================
+	  Medium Sized Device Styles - Stepping up from Mobile to Tablet
+	 ========================================================================== */
 @import "medium";
 
-/*
-***** Print Styles *****
-*/
 
+
+
+
+/* ==========================================================================
+	 Print Styles
+	 ========================================================================== */
 @import "print";
